@@ -1,0 +1,1342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The relation of His Majestie's entertainment passing through the city of London, to his coronation: with a description of the triumphal arches, and solemnity; by John Ogilby.</title>
+            <author>Ogilby, John, 1600-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90120</idno>
+            <idno type="STC">Wing O181</idno>
+            <idno type="STC">Thomason E1080_16</idno>
+            <idno type="STC">ESTC R207879</idno>
+            <idno type="EEBO-CITATION">99866902</idno>
+            <idno type="PROQUEST">99866902</idno>
+            <idno type="VID">119190</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119190)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1080[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The relation of His Majestie's entertainment passing through the city of London, to his coronation: with a description of the triumphal arches, and solemnity; by John Ogilby.</title>
+                  <author>Ogilby, John, 1600-1676.</author>
+               </titleStmt>
+               <extent>[5], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Roycroft, for Rich. Marriott, in St Dunstan's Church-Yard in Fleet-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Facing title page is license to print signed by Edward Nicolas.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Coronation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="copyright_notice">
+            <pb facs="tcp:119190:1" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:119190:2"/>
+            <argument>
+               <p>
+                  <figure>
+                     <figDesc>royal blazon or coat of arms</figDesc>
+                     <q>HONI SOIT QVI MAL Y PENSE</q>
+                     <q>DIEV ET MON DROIT</q>
+                  </figure>
+               </p>
+            </argument>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS the Commiſſioners for the So<g ref="char:EOLhyphen"/>lemnity of Our Royal Coronation have appointed Our Truſty and Well-beloved <hi>John Ogilby,</hi> Gent. for the Conduct of the Poetical part thereof, conſiſting in Speeches, Emblemes, Mottoes, and In<g ref="char:EOLhyphen"/>ſcriptions, which he intends to ſet forth in a large Treatiſe, and Repreſent in Sculp<g ref="char:EOLhyphen"/>ture; Our will and pleaſure is, That no Perſon, or Perſons whatſoever, do preſume to Print, or publiſh the ſaid Treatiſe, or any relation whatſoever, of the ſaid So<g ref="char:EOLhyphen"/>lemnitie, or Sculpture, in any ſize, or Book, or Pamphlet, in any Volume what<g ref="char:EOLhyphen"/>ſoever, concerning the ſame, without the Conſent of the ſaid
+<hi>John Ogilby,</hi> as they will anſwer the contrary at their perill. Given at Our Court at <hi>White-Hall</hi> the 11<hi>th.</hi> day of <hi>April</hi> in the 13<hi>th.</hi> Year of Our Reign.</p>
+            <closer>
+               <signed>By His MAJESTIE'S Command, EDWARD NICHOLAS.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:119190:2" rendition="simple:additions"/>
+            <p>THE RELATION OF His Majeſties ENTERTAINMENT Paſsing through the City of LONDON, To His CORONATION: WITH A DESCRIPTION OF THE Triumphal Arches, AND SOLEMNITY;</p>
+            <p>By JOHN OGILBY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Roycroft,</hi> for <hi>Rich. Marriott,</hi> in St <hi>Dunſtan</hi>'s Church-Yard in <hi>Fleet-Street,</hi>
+1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119190:3"/>
+            <pb facs="tcp:119190:3"/>
+            <head>TO THE RIGHT HONOURABLE THE LORD MAYOR, COURT of ALDERMEN, COMMITTEE for the CORONATION, And the reſt of the Worthy Members of this Honourable <hi>CITY.</hi>
+            </head>
+            <p>THE RELATION of this Solemnity, and of what, in purſuit of their Com<g ref="char:EOLhyphen"/>mands, He undertook, and hath compleat<g ref="char:EOLhyphen"/>ed, is Humbly Dedicated, by</p>
+            <closer>
+               <signed>Their Moſt Obedient Servant, JOHN OGILBY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119190:4"/>
+            <pb n="1" facs="tcp:119190:4"/>
+            <head>HIS MAJESTIE'S ENTERTAINMENT Paſsing through the City of
+<hi>LONDON</hi> TO HIS CORONATION; WITH A DESCRIPTION OF THE TRIUMPHAL ARCHES and CEREMONIES.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE City of LONDON, participating the greateſt ſhare of that inexpreſſable Happineſs, which theſe Kingdoms have received by the glorious Re<g ref="char:EOLhyphen"/>stauration of our Sovereign to his Throne, and of us His Subjects to our Religion, Laws, and Li<g ref="char:EOLhyphen"/>berties, after a diſmal Night of Uſurpation, and Oppreſsion, and proportionably exceeding in their Loyalty, have taken the occaſion of His MAJESTIE'S Coronation, to expreſs their Joy with the greatest Magnificence immaginable: imitating therein the an<g ref="char:EOLhyphen"/>tient
+<hi>Romanes,</hi> who at the Return of their Emperours, erected Arches of Marble, which though They, by reaſon of the Shortneſs of Time could not equal in Materials, yet do theirs far exceed the others in Number and ſtupendious Proportions. They have not herein ſpared any Coſt to manifeſt their affectionate Duty to the KING, conſidering, that, if ever exceſsive Profuſions of this nature might be juſtified, the
+<pb n="2" facs="tcp:119190:5"/>preſent ſhould be allowed, the occaſion thereof being the moſt Miraculous, and Joyful of any, that ever happened. And to the in<g ref="char:EOLhyphen"/>tent, that the Ingenuous may be inſtructed, the Malevolent ſilenced, and Misinformations prevented, it is thought fit to publiſh a perfect Deſcription of the Solemnity.</p>
+            <p>MONDAY, <hi>April</hi> the two and twentieth, His MAJESTY goes from the <hi>Tower,</hi> through the City, to <hi>Whitehall.</hi>
+            </p>
+            <p>In his paſſage through <hi>Crouched Fryers,</hi> He is entertained with Muſick, a Band of eight Waits placed on a Stage.</p>
+            <p>Near <hi>Algate,</hi> another Band of ſix Waits entertain Him in like manner with Muſick, from a Balcony, built to that Pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p>In <hi>Leaden Hall</hi>-ſtreet, near <hi>Lime</hi>-ſtreet End, is erected the Firſt Friumphal Arch, after the <hi>Dorick</hi> Order. On the
+<hi>North</hi>-ſide, on a Pedeſtal before the Arch, is a Woman perſonating REBELLION, mounted on a <hi>Hydra,</hi> in a Crimſon Robe, torn, Snakes crawling on her Habit, and begirt with Serpents, her Hair Snaky, a Crown of Fire on her Head, a bloody Sword in one Hand, a charming Rod in the other. Her At<g ref="char:EOLhyphen"/>tendant CONFUSION, in a deformed Shape, a Gar<g ref="char:EOLhyphen"/>ment of ſeveral ill-matched Colours, and put on the wrong way; on her Head, Ruines of Caſtles, torn Crowns, and broken Scepters in each Hand.</p>
+            <p>On the <hi>South</hi> Pedeſtal is a Repreſentation of BRIT<g ref="char:EOLhyphen"/>TAIN'S MONARCHY, ſupported by LOYALTY, both Women; <hi>Monarchy,</hi> in a large Purple Robe, adorn'd with Diadems, and Scepters, over which a looſe Mantle, edged with blue and ſilver Fringe, reſembling Water, the Map of
+<hi>Great Britain</hi> drawn on it, on her Head <hi>London,</hi> in her right Hand, <hi>Edinburgh;</hi> in her left, <hi>Dublin: Loyalty</hi> all in White, three Scepters in her right Hand, three Crowns in her left.</p>
+            <p>
+               <pb n="3" facs="tcp:119190:5"/>The firſt Painting on the
+<hi>South</hi>-ſide is a Proſpect of His Majeſtie's Landing at
+<hi>Dover</hi>-Caſtle, Ships at Sea, great Guns going off, one kneeling and kiſsing the Kings Hand, Soldi<g ref="char:EOLhyphen"/>ers, Horſe, and Foot, and many People gazing: Above,</p>
+            <q>ADVENTUS AUG.</q>
+            <p>The whole Tablet repreſenting His Majeſtie's bleſſed Arrival.</p>
+            <p>Beneath the Painting this Motto,</p>
+            <q>IN SOLIDO RURSUS FOR TUNA LOCAVIT.</q>
+            <p>Alluding to that of <hi>Virgil,</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Multa dies variuſque labor, mutabilis aevi</hi>
+               </l>
+               <l>
+                  <hi>Rettulit in melius, multos alterna reviſens</hi>
+               </l>
+               <l>
+                  <hi>Luſit, &amp; in ſolido rurſus Fortuna locavit.</hi>
+               </l>
+            </q>
+            <p>Thus rendred,</p>
+            <q>
+               <l>"The various Works of Time, and many Dayes,</l>
+               <l>"Often Affairs from worſe to better raiſe,</l>
+               <l>"Fortune reviewing thoſe She tumbled down,</l>
+               <l>"Sporting reſtores again unto the Crown.</l>
+            </q>
+            <p>The Painting on the <hi>North</hi>-ſide, oppoſite to this, is a Trophy with decollated Heads, having over it,</p>
+            <q>ULTOR A TERGO DEUS.</q>
+            <p>Taken out of <hi>Horace,</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>—ſequitur Rebelles</hi>
+               </l>
+               <l>
+                  <hi>Ultor a tergo Deus—</hi>
+               </l>
+            </q>
+            <q>
+               <l>"Gods Vengeance Rebels at the heels purſues.</l>
+            </q>
+            <p>This Tablet repreſenting in a Trophy the late Example of Gods Juſtice upon the Rebels, who commited that moſt horrid Murther upon his Majeſties Royal Father of bleſſed Memory. To which Rebels the Motto beneath alſo referreth.</p>
+            <q>AUSI IMMANE NEFAS AUSOQUE POTITI.</q>
+            <p>Said by <hi>Virgil</hi> of thoſe, who were, for the like Crimes, con<g ref="char:EOLhyphen"/>demned<pb n="4" facs="tcp:119190:6"/>to the Pains of <hi>Erebus,</hi> as he cloſes the Deſcription of it in the Sixth of his <hi>Aeneis,</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Auſi omnes immane nefas, auſoque potiti;</hi>
+               </l>
+            </q>
+            <q>
+               <l>"All dar'd bold Crimes, and thriv'd in what they dar'd.</l>
+            </q>
+            <p>The Painting over the Middle Arch repreſents the King, mounted in calm Motion, USURPATION flying before him, a Figure with many ill-favoured Heads, ſome bigger, ſome leſſer, and one particularly ſhooting out of his Shoulder, like CROMWELL'S; Another Head upon his Rump, or Tayl; Two
+<hi>Harpies</hi> with a Crown chaſed by an Angel; Hell's Jaws opening. Under the ſaid Repreſentation of the King purſuing <hi>Uſurpation,</hi> is this Motto,</p>
+            <q>VOLVENDA DIES EN ATTULIT ULTRO.</q>
+            <p>Taken out of the <hi>Aeneis,</hi> lib. 9.</p>
+            <q>
+               <l>TURNE, <hi>Quod optanti Divum promittere Nemo</hi>
+               </l>
+               <l>
+                  <hi>Auderet, volvenda dies, en! attulit ultro.</hi>
+               </l>
+            </q>
+            <q>
+               <l>"What none of all the Gods durſt grant, implor'd,</l>
+               <l>"Succeſſive Time does of its own accord.</l>
+            </q>
+            <p>Above the Arch on two Pedeſtals, <hi>South</hi>-ward, and
+<hi>North</hi>-wards, ſtand the Statues of King JAMES, and King CHARLS I. In the Middle ſomewhat higher, juſt over the Arch, the Statue of His Sacred Majeſty. Under that of King <hi>James;</hi>
+            </p>
+            <q>DIVO JACOBO.</q>
+            <p>Under that of King <hi>Charles</hi> I.</p>
+            <q>DIVO CAROLO.</q>
+            <p>
+               <pb n="5" facs="tcp:119190:6"/>Under that of His Majeſty this following Inſcription;</p>
+            <q>D. N. <lb/>CAROLO II. <lb/>D. G. BRITANNIARUM IMP. <lb/>OPT. MAX.
+<lb/>UBIQUE VENERANDO, <lb/>SEMPER AUG. <lb/>BEATISSIMO AC PIISSIMO, <lb/>BONO REIP. NATO, <lb/>DE AVITA BRITANNIA, <lb/>DE OMNIUM HOMINUM GENERE
+<lb/>MERITISSIMO, <lb/>P. P. <lb/>EXTINCTORI TYRANNIDIS, <lb/>RESTITUTORI LIBERTATIS, <lb/>FUNDATORI QUIETIS, <lb/>OB FELICEM REDITUM, <lb/>EX VOTO L. M.
+<lb/>P. <lb/>S. P. Q. L.</q>
+            <p>
+               <pb n="6" facs="tcp:119190:7"/>Behind the ſaid Figure of <hi>Charles</hi> II. in a large Table is de<g ref="char:EOLhyphen"/>ciphered the ROYAL OAK bearing Crowns, and Scepters, in<g ref="char:EOLhyphen"/>ſtead of Acorns; amongſt the Leaves, in a Label,</p>
+            <q> MIRATURQUE NOVAS FRONDES ET NON SUA POMA.</q>
+            <q>
+               <l>—"Leaves unknown</l>
+               <l>"Admiring, and ſtrange Apples not her Own.</l>
+            </q>
+            <p>As deſigning its Reward for the Shelter afforded His Ma<g ref="char:EOLhyphen"/>jeſty after the Fight at <hi>Worceſter:</hi> an expreſſion of
+<hi>Virgil</hi>'s, ſpeaking of the Advancement of Fruits by the Art of Graff<g ref="char:EOLhyphen"/>ing.</p>
+            <p>The upper Paintings on the <hi>East</hi>-ſide are Ruinous, repre<g ref="char:EOLhyphen"/>ſenting the Diſorder the Kingdom was in, during His Ma<g ref="char:EOLhyphen"/>jeſtie's Abſence; with this Motto,</p>
+            <q>EN QUO DISCORDIA CIVESI</q>
+            <p>But on the <hi>West</hi>-ſide they are finiſhed, to repreſent the Re<g ref="char:EOLhyphen"/>ſtauration of our Happineſs by His Majeſtie's Arrival; the Motto,</p>
+            <q>FELIX TEMPORUM REPARATIO</q>
+            <p>On the <hi>Royal Oak,</hi> in a Label,</p>
+            <q>ROBUR BRITANICUM.</q>
+            <p>Over the Great Table,</p>
+            <q>REDEUNT SATURNIA REGNA.</q>
+            <p>Under King <hi>Charles</hi> II.</p>
+            <q>RESTITUTOR URBIS.</q>
+            <p>The Painting on the <hi>South-Weſt</hi>-ſide repreſents the Lord <hi>Mayor</hi> delivering to the King the Keies of the City.</p>
+            <p>In the <hi>Niches</hi> are four Figures. The firſt on the
+<hi>South</hi>-ſide, a Woman in pleaſant Colours; the Emblem on her Shield, a terreſtrial Globe, the Sun riſing, <hi>Bats,</hi> and <hi>Owls</hi> flying to the Shadow; the Word,</p>
+            <q>EXCOECAT CANDOR.</q>
+            <p>
+               <pb n="7" facs="tcp:119190:7"/>The Second hath on her Eſcutcheon a Swarm of Bees, whetting their Stings, the Word,</p>
+            <q>PRO REGE EXACUUNT.</q>
+            <p>The Third, on the <hi>North</hi>-ſide, hath on Her Shield a Moun<g ref="char:EOLhyphen"/>tain burning, Cities, and Vine-yards deſtroyed, and ruined; the Word,</p>
+            <q>IMPIA FOEDERA.</q>
+            <p>The Fourth hath on Her Eſcutcheon an Arm, as it were out of the Clouds; in the Hand a naked Sword: The Mot<g ref="char:EOLhyphen"/>to,</p>
+            <q>DISCITE JUSTITIAM MONITI.</q>
+            <p>Eight Mutes above, on Pedeſtals; four in White, four in Crimſon.</p>
+            <p>The Muſick of this Fabrick is ten Drummers, flanking
+<hi>Rebellion;</hi> twelve Trumpets flanking <hi>Monarchy.</hi>
+            </p>
+            <p>Aloft under the two Devaſtations, twelve Trumpets, four Drums.</p>
+            <p>Within the Arch, on two Balconies, ſix Trumpets, four Drums.</p>
+            <p>While the Train paſſeth along, the Drums beat the Mar<g ref="char:EOLhyphen"/>ches of ſeveral Countries, and the Trumpets ſound ſeveral <hi>Levets.</hi> At which time, His Majeſty drawing near, the Drums turn their March to a Battel, the Trumpets ſound a Charge, and on a ſudden <hi>Rebellion</hi> rowſeth up her Self, at which, Drums, and Trumpets ceaſing, <hi>Rebellion</hi> addreſſes to his Ma<g ref="char:EOLhyphen"/>jeſty the following Speech.</p>
+            <q>
+               <lg>
+                  <l>Stand! Stand! who'ere You are! this Stage is Ours.</l>
+                  <l>The Names of Princes are inſcribed on Flow'rs,</l>
+                  <l>And Wither them! Stand! You muſt Me know,</l>
+                  <l>To Kings, and <hi>Monarchy</hi> a deadly Fo;</l>
+                  <l>Me, who dare bid You midſt Your Triumphs Stand,</l>
+                  <l>In the Great City of Your Native Land:</l>
+                  <pb n="8" facs="tcp:119190:8"/>
+                  <l>I am Hell's Daughter, <hi>Satan</hi>'s Eldeſt Childe,</l>
+                  <l>When I firſt cry'd, the Pow'rs of Darkneſs ſmil'd,</l>
+                  <l>And my Glad Father, Thundring at my Birth,</l>
+                  <l>Unhing'd the Poles, and ſhook the fixed Earth.</l>
+                  <l>My dear <hi>Rebellion</hi> (that ſhall be thy Name,</l>
+                  <l>Said He) Thou Emperours, and Kings ſhalt tame,</l>
+                  <l>No Right ſo good, Succeſſion none ſo long,</l>
+                  <l>But thou ſhalt Vanquiſh by thy Popular Throng:</l>
+                  <l>Thoſe Legions, which
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enlarge our Pow'r we ſend</l>
+                  <l>Throughout the World, ſhall Thee (my Dear) attend.</l>
+                  <l>Our mighty Champions, the Sev'n Deadly Sins,</l>
+                  <l>By Malice, Profit, Pleaſure, all their Gins,</l>
+                  <l>Bring to Our Kingdom ſome few ſpotted Souls;</l>
+                  <l>Thou ſhalt by Treaſon hurry them in Shoals.</l>
+               </lg>
+               <lg>
+                  <l>Would You now know what Int'reſt I have here?</l>
+                  <l>
+                     <hi>Hydra</hi> I ride: great Cities are my Sphear:</l>
+                  <l>I Sorc'ry uſe, and hag Men in their Beds,</l>
+                  <l>With Common-wealths, and <hi>Rotas</hi> fill their Heads,</l>
+                  <l>Making the Vulgar in Fanatique Swarms</l>
+                  <l>Court Civill War, and dote on Horrid Arms;</l>
+                  <l>'Twas I, who, in the late unnatural Broils,</l>
+                  <l>Engag'd three Kingdoms, and two Wealthy Iſles:</l>
+                  <l>I hope, at laſt, to march with Flags unfurl'd,</l>
+                  <l>And tread down <hi>Monarchy</hi> through all the World.</l>
+               </lg>
+            </q>
+            <p>At which Words, <hi>Monarchy,</hi> and <hi>Loyalty,</hi> unveiling them<g ref="char:EOLhyphen"/>ſelves, <hi>Rebellion</hi> ſtarts as affrighted, but recollecting her ſelf, concludes her Speech thus.</p>
+            <q>
+               <l>Ah! <hi>Britain,</hi> Ah! ſtand'ſt thou Triumphant there,</l>
+               <l>Monarchick Iſle? I ſhake with horrid Fear.</l>
+               <l>Are thy Wounds whole? Upon thy Cheek freſh Smiles?</l>
+               <l>Is Joy reſtor'd to theſe late mournfull Iſles?</l>
+               <l>Ah! muſt He enter, and a King be Crown'd?</l>
+               <l>Then, as He riſeth, ſink we under Ground.</l>
+            </q>
+            <p>
+               <pb n="9" facs="tcp:119190:8"/>
+               <hi>Rebellion</hi> having ended her Speech,
+<hi>Monarchy</hi> entertains His Majeſty with the following.</p>
+            <q>
+               <l>To Hell, foul Fiend, ſhrink from this glorious Light,</l>
+               <l>And hide thy Head in Everlaſting Night.</l>
+               <l>Enter in Safety, Royal Sir, this <hi>Arch,</hi>
+               </l>
+               <l>And through Your joyful Streets in Triumph march;</l>
+               <l>Enter our <hi>Sun,</hi> our <hi>Comfort,</hi> and our
+<hi>Life;</hi>
+               </l>
+               <l>No more theſe Walls ſhall breed Inteſtine Srife.</l>
+               <l>Henceforth Your People onely ſhall contend</l>
+               <l>In <hi>Loyalty</hi> each other to tranſcend,</l>
+               <l>May Your Great Actions, and immortal Name,</l>
+               <l>Be the whole Buſineſs and Delight of <hi>Fame.</hi>
+               </l>
+               <l>May You, and Yours, in a Perpetual Calm</l>
+               <l>Be Crown'd with <hi>Laurel,</hi> and Triumphant
+<hi>Palm,</hi>
+               </l>
+               <l>And All Confeſs, whilſt they in You are Bleſt,</l>
+               <l>I, MONARCHY, of Governments am Beſt,</l>
+            </q>
+            <p>
+               <hi>Monarchy</hi> having ended her Speech, the Trumpets ſound pleaſant <hi>Levets,</hi> and the Drums beat a lofty <hi>Engliſh</hi> March, whilſt His Majeſty, the Nobility, and the Rear-Guard paſs on,</p>
+            <p>Upon His Majeſtie's Advance to the <hi>Eaſt-India</hi> Houſe in <hi>Leaden-Hall</hi>-Street, the <hi>Eaſt-India</hi> Company take occaſion to expreſs their dutiful Affections to His Majeſty in manner following.</p>
+            <p>
+               <note n="*" place="margin">This Entertainment was deſigned, and the Speeches made by a Perſon of Qua<g ref="char:EOLhyphen"/>lity.</note>Firſt, a Youth in
+<hi>Indian</hi> Habit, attended by two <hi>Black-Moors,</hi> is ſent out to beſpeak the Kings Expectation, kneeling before His Horſe in theſe Words;</p>
+            <q>
+               <l>Stay, Royal Sir, here comes an <hi>Indian,</hi>
+               </l>
+               <l>Who brings along a full fraught Caravan</l>
+               <l>Of perfect Loyalty, and Thanks, to pay,</l>
+               <l>As Your due Tribute, on this glorious Day.</l>
+            </q>
+            <p>In the mean while another Youth, in an <hi>Indian</hi> Veſt, mounted upon a <hi>Camel,</hi> led out by two <hi>Black-Moors,</hi> &amp; other Attendants, the <hi>Camel</hi> having two Panniers fill'd with Jewels, Spices, and Silks, to be ſcattered among the Specta<g ref="char:EOLhyphen"/>tours, addreſſeth himſelf to His Majeſty, as followeth.</p>
+            <q>
+               <pb n="10" facs="tcp:119190:9"/>
+               <l>Avaunt, you Glorious Trifles of the <hi>Eaſt,</hi>
+               </l>
+               <l>Pearls, Diamonds, Rubies, Sapphires, and the Beſt</l>
+               <l>Of <hi>Aromaticks,</hi> and your Silken Toys,</l>
+               <l>We're Rich enough in our Compleated Joys.</l>
+               <l>Your Sacred Perſon, Royal Sir, hath brought</l>
+               <l>Home all the VVealth, that can be found, or thought</l>
+               <l>The Riches of both <hi>Indies</hi> are but Poor,</l>
+               <l>Compar'd with our renew'd <hi>Carolean</hi> Store.</l>
+               <l>VVe'l blame that Fire no more, that ſcorch'd our Neſt</l>
+               <l>Of Spicy Trade, ſince we ſee You, the Beſt</l>
+               <l>Of <hi>Kings,</hi> Riſe from the Aſhes of that Flame,</l>
+               <l>That burnt our Firſt Right <hi>Phoenix</hi> of Your Name.</l>
+               <l>For You have out-done <hi>Solomon,</hi> and made</l>
+               <l>Proviſion for a more then <hi>Ophir</hi> Trade;</l>
+               <l>Among Your firſt of unexpected Cares</l>
+               <l>Enlarg'd our Charter, and diſpel'd our Fears</l>
+               <l>Of the incroaching <hi>Holland</hi>'s Rival Force.</l>
+               <l>Nor can we doubt, but by the bounteous Source</l>
+               <l>Of Your Succeſsful Right, not only We,</l>
+               <l>But all the Merchants of Your Realm ſhall ſee</l>
+               <l>This <hi>Empory</hi> the <hi>Magazine</hi> of All</l>
+               <l>That's Rich, from <hi>Phoebus</hi> Riſing to his Fall;</l>
+               <l>And Your <hi>Imperial Title</hi> be the ſame</l>
+               <l>In Deed, which <hi>Spain</hi>'s proud Crown vaunts but in Name.</l>
+               <l>Which Heavens grant! And that we never ſee</l>
+               <l>The Sun ſet on Your Crown, or Dignity.</l>
+               <p>Long live <hi>King CHARLES the Second.</hi>
+               </p>
+            </q>
+            <p>The two Youths, who ſpeak to His Majeſty, as above, are
+<hi>John,</hi> and <hi>Samuel Ford,</hi> ſons of Sir <hi>Richard Ford,</hi> one of the Committees of the <hi>Eaſt-India</hi> Company.</p>
+            <p>The next Entertainment is a Band of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ix Waits placed on a Balcony, erected in the Middle of the <hi>North-Weſt</hi> An<g ref="char:EOLhyphen"/>gle of
+<hi>Leaden-Hall.</hi>
+            </p>
+            <p>The next Entertainment is at <hi>Corn-hill</hi>-Conduit, on the top of which ſtand eight <hi>Nymphs</hi> clad in White, each having an Eſcutcheon in one Hand, and a Pendent, or Banner in the other. On the Tower of the ſaid Conduit, a Noiſe of ſeven Trumpets.</p>
+            <p>
+               <pb n="11" facs="tcp:119190:9"/>
+               <seg rend="decorInit">N</seg>EAR the <hi>Exchange,</hi> in
+<hi>Corn-hill,</hi> is erected the ſecond <hi>Arch,</hi> which is
+<hi>Naval.</hi>
+            </p>
+            <p>On the <hi>Eaſt</hi>-ſide are two Stages erected; on each ſide of the ſtreet, one. In that on the <hi>South</hi>-ſide is a perſon repreſenting the River <hi>Thames;</hi> his Garment Looſe and Flowing, Colour Blew and White, waved like Water, a Mantle over, like a Sayl; his Head Crown'd with <hi>London</hi>-Bridg, Flags, and Ozier, like long Hair, falling o're his Shoulders, his Beard long, Sea-green, and White, curl'd; an Oar in his right Hand, the Model of a Ship in his left, an Urn beſide him, out of which iſſues Water; four Attendants in White, repreſenting the four freſh Streams, which fall into the River <hi>Thames,</hi> viz. <hi>Charwell, Lea, Colne,</hi> and <hi>Medway.</hi>
+            </p>
+            <p>In the other Stage on the <hi>North</hi>-ſide, which is made like the upper Deck of a Ship, are three <hi>Seamen,</hi> where<g ref="char:EOLhyphen"/>of one habited like a <hi>Boat-ſwain.</hi>
+            </p>
+            <p>A Shield, or Table, in the front of the <hi>Arch,</hi> bears this
+<hi>Inſcription,</hi>
+            </p>
+            <q>NEPTUNO BRITANNICO, <lb/>CAROLO II, <lb/>CUJUS ARBITRIO <lb/>MARE
+<lb/>VEL LIBERUM, VEL CLAUSUM.</q>
+            <p>The firſt Painting, on the <hi>North</hi>-ſide over the City-Arms,<pb n="12" facs="tcp:119190:10"/>repreſents NEPTUNE, with his Trident advan<g ref="char:EOLhyphen"/>ced; the <hi>Inſcription,</hi>
+            </p>
+            <q>NEPTUNO REDUCI.</q>
+            <p>On the <hi>South</hi>-ſide, oppoſite, MARS, with his Spear inverted, his Shield charged with a <hi>Gorgon;</hi> by his Knees the Motto,</p>
+            <q>MARTI PACIFERO.</q>
+            <p>Over the <hi>Arch,</hi> the Marriage of <hi>Thame,</hi> and
+<hi>Iſis.</hi>
+            </p>
+            <p>The Painting on the <hi>North</hi>-ſide, over <hi>Neptune,</hi> repreſents the EXCHANGE; the Motto,</p>
+            <q>GENERIS LAPSI SARCIRE RUINAS.</q>
+            <p>An Expreſſion of <hi>Virgil</hi>'s, <hi>Georg.</hi> 4. ſpeaking of the Induſtry of <hi>Bees,</hi> never diſcouraged by their Loſſes; his Deſcription of it running thus,</p>
+            <q>
+               <l>
+                  <hi>Quo magis exhauſtae fuerint, hoc acrius omnes</hi>
+               </l>
+               <l>
+                  <hi>Incumbent generis lapſi ſarcire Ruinas,</hi>
+               </l>
+               <l>
+                  <hi>Complebuntque Foros, &amp; Floribus Horrea texent.</hi>
+               </l>
+            </q>
+            <q>
+               <l>How much by Fortune they exhauſted are,</l>
+               <l>So much they ſtrive the Ruins to repair</l>
+               <l>Of their fal'n Nation, and they fill th'<hi>Exchange,</hi>
+               </l>
+               <l>Adorning with the choiceſt Flow'rs their Grange.</l>
+            </q>
+            <p>The Painting on the <hi>South</hi>-ſide, over <hi>Mars,</hi> ſhews the <hi>Tower</hi> of <hi>London;</hi> the <hi>Inſcription,</hi>
+            </p>
+            <q>CLAUDUNTUR BELLI PORTAE.</q>
+            <p>The Pedeſtals, in the Upper Story are Adorned with eight living Figures, repreſenting EUROPE, ASIA, AFRICK, and AMERICA, with Eſcutcheons, and Pendents, bearing the Arms of the Companies, Trading into thoſe Parts.</p>
+            <p>The uppermoſt great <hi>Table</hi> in the fore-ground repre<g ref="char:EOLhyphen"/>ſents<pb n="13" facs="tcp:119190:10"/>King <hi>Charles</hi> the Firſt, with the Prince, now <hi>Charles</hi> the ſecond, in His Hand, viewing the Sovereign of the Sea, the Prince leaning on a Cannon; the Inſcription,</p>
+            <q>
+               <l>O NIMIUM DILECTE DEO, CUI MILITAT AEQUOR,</l>
+               <l>ET CONJURATI VENIUNT AD CLASSICA VENTI.</l>
+            </q>
+            <q>
+               <l>For thee, O <hi>Jove's</hi> Delight, the Seas engage,</l>
+               <l>And Muſtred Windes, drawn up in Battel, Rage.</l>
+            </q>
+            <p>Above, over the <hi>Cornich,</hi> between the two Celeſtial
+<hi>He<g ref="char:EOLhyphen"/>mi ſpheres,</hi> an <hi>Atlas,</hi> bearing a <hi>Terreſtrial Globe,</hi> and on it a Ship under Sail; the Word,</p>
+            <q>UNUS NON SUFFICIT.</q>
+            <p>The great Painting on the <hi>West</hi>-ſide, repreſents the Duke of YORK, habited <hi>a l'antique,</hi> like <hi>Neptune,</hi> ſtanding on a Shell drawn by <hi>Sea-Horſes,</hi> in one Hand a <hi>Trident,</hi> the
+<hi>Reins</hi> in the other; his Motto,</p>
+            <q>SPES ALTERA.</q>
+            <p>On the four <hi>Niches</hi> within the <hi>Arch</hi> are living Figures, with Eſcutcheons, and Pendents, repreſenting ARITHME<g ref="char:EOLhyphen"/>TICK, GEOMETRY, ASTRONOMY, and NAVIGA<g ref="char:EOLhyphen"/>TION.</p>
+            <p>
+               <hi>Arithmetick,</hi> a Woman habited <hi>a l'antique;</hi> upon her Veſtment Lines, with <hi>Muſick</hi>-Notes on them: In her Eſcut<g ref="char:EOLhyphen"/>cheon a Book opened, with a Hand, pointing to the Figures 1.2.3.4, &amp;c. under,</p>
+            <q>PAR ET IMPAR.</q>
+            <p>
+               <hi>Geometry,</hi> a Woman in a pleaſant <hi>Green,</hi> in her Shield a <hi>Compaſs,</hi> and a <hi>Triangle;</hi> the Inſcription,</p>
+            <q> DESCRIPSIT RADIO TOTUM QUAE GEN<g ref="char:EOLhyphen"/>TIBUS ORBEM.</q>
+            <p>
+               <pb n="14" facs="tcp:119190:11"/>
+               <hi>Aſtronomy,</hi> a Woman in a looſe Veſtment, <hi>Azure,</hi> wrought with Stars of Gold, looking up to Heaven: in her Shield a Table, wherein are diverſe <hi>Aſtronomical</hi> Figures; the Inſcri<g ref="char:EOLhyphen"/>ption,</p>
+            <q>CIRCUMSPICIT ORIONA.</q>
+            <p>Taken out of the third of the <hi>Aeneis,</hi> where the
+<hi>Poet</hi> Intro<g ref="char:EOLhyphen"/>duces <hi>Palinurus,</hi> contemplating the Heavens.</p>
+            <p>
+               <hi>Navigation,</hi> a Woman in Sea-green Habit, in her Eſcut<g ref="char:EOLhyphen"/>cheon an <hi>Archer,</hi> with a <hi>Cable</hi> about it; the Inſcription,</p>
+            <q>TUTUM TE LITTORE SISTAM.</q>
+            <p>While the <hi>Nobility</hi> paſs the <hi>Triumphal Arch,</hi> the three Sea<g ref="char:EOLhyphen"/>men Entertain them with this Song from the Stage on the
+<hi>North</hi>-ſide of the <hi>Arch.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>From <hi>Neptune</hi>'s VVat'ry Kingdonies, where</l>
+                  <l>Storms, &amp; Tempeſts riſe ſo often,</l>
+                  <l>As would the VVorld in Pinces tear,</l>
+                  <l>Should Providence their Rage not ſoften;</l>
+                  <l>In that fluctuating Sphear,</l>
+                  <l>VVhere ſtout Ships, and ſmaller Barks</l>
+                  <l>Are toſs'd like Balls, or feather'd Corks,</l>
+                  <l>VVhen Briny VVaves to Mountains ſwell,</l>
+                  <l>VVhich dimming oft Heav'ns glittring Sparks,</l>
+                  <l>Then deſeending low as Hell;</l>
+                  <l>Through this Crowd,</l>
+                  <l>In a Cloud,</l>
+                  <l>By a ſtrange and unknown Spell,</l>
+                  <l>VVe newly Landing,</l>
+                  <l>Got this Standing,</l>
+                  <l>All Merry Boys, and Loyal,</l>
+                  <l>Our Pockets full of Pay</l>
+                  <l>This Triumphal Day,</l>
+                  <pb n="15" facs="tcp:119190:11"/>
+                  <l>To make of our skill a Tryal,</l>
+                  <l>Of our little little skill.</l>
+                  <l>Let none then take it ill,</l>
+                  <l>We muſt have no Denyal.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>We, who have rais'd, and laid the Poles,</l>
+                  <l>Plough'd Frozen Seas, and fealding Billows,</l>
+                  <l>Now ſtiff with Cold, then ſcorch'd on Coals,</l>
+                  <l>Ships our Cradles, Decks our Pillows;</l>
+                  <l>'Mongſt threatning Rocks, and treach'rous Shoals,</l>
+                  <l>Through <hi>Gibraltar</hi>'s contracted Mouth,</l>
+                  <l>And Realms condemn'd to Heat and Drowth,</l>
+                  <l>Or <hi>Baltick</hi> Waves bound up in Ice,</l>
+                  <l>Or <hi>Magellan</hi> as Cold, though <hi>South,</hi>
+                  </l>
+                  <l>Our good Fortune, in a trice,</l>
+                  <l>Through this Crowd,</l>
+                  <l>In a Cloud,</l>
+                  <l>Brings us where in Paradiſe</l>
+                  <l>We newly Landing</l>
+                  <l>Got this Standing,</l>
+                  <l>All Merry Boys, and Loyal,</l>
+                  <l>Our Pockets full of Pay</l>
+                  <l>This Triumphal Day,</l>
+                  <l>To make of our skill a Tryal,</l>
+                  <l>Of our little little skill:</l>
+                  <l>Let none then take it ill,</l>
+                  <l>We muſt have no Denyal.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>VVe, who ſo often bang'd the <hi>Turk,</hi>
+                  </l>
+                  <l>Our Broad-ſides ſpeaking Thunder,</l>
+                  <l>Made <hi>Belgium</hi> ſtrike, and proud
+<hi>Dunkirk,</hi>
+                  </l>
+                  <l>VVho liv'd by Prize, and Plunder,</l>
+                  <l>And routed the <hi>Sebaſtian</hi> Shirk;</l>
+                  <pb n="16" facs="tcp:119190:12"/>
+                  <l>We paid their Poops, and painted Beaks,</l>
+                  <l>Cleans'd before and eft their Decks,</l>
+                  <l>Till their Scuppers ran with Gore,</l>
+                  <l>Whil'ſt in as faſt ſalt-Water breaks;</l>
+                  <l>But we are Friends of this no more:</l>
+                  <l>Through this Crowd</l>
+                  <l>In a Cloud,</l>
+                  <l>We have found an happy Shore,</l>
+                  <l>And newly landing</l>
+                  <l>Got this ſtanding;</l>
+                  <l>All Merry Boys, and Loyal,</l>
+                  <l>Our Pockets full of Pay</l>
+                  <l>This Triumphal Day,</l>
+                  <l>To make of our Skill a Trial</l>
+                  <l>Of our little little Skill,</l>
+                  <l>Let none then take it ill,</l>
+                  <l>We muſt have no denyal.</l>
+               </lg>
+            </q>
+            <p>Beſides the three beforenamed, who ſing the precedent Song, there are in like manner habited, like Sea-men, ſix other Perſons, who make a Wind-Muſick.</p>
+            <p>The Muſick in the Stage conſiſts of three Drums, and ſix Trumpets.</p>
+            <p>On the <hi>Eaſt</hi>-ſide, Winde-Muſick, conſiſting of ſix Per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>On two Balconies, within the <hi>Arch,</hi> Winde-Muſick, conſiſting of twelve Perſons.</p>
+            <p>On the <hi>West</hi>-Gallery are placed ſix Trumpets.</p>
+            <p>Theſe, and all the other Muſick, belonging to this Tri<g ref="char:EOLhyphen"/>umph, perform their Duty without Intermiſſion, till ſuch time as His Majeſty fronts the <hi>Figure,</hi> which repreſents <hi>Thames,</hi> and then ceaſe; upon which, <hi>Thames</hi> maketh the enſuing <hi>Speech.</hi>
+            </p>
+            <q>
+               <pb n="17" facs="tcp:119190:12"/>
+               <l>TEn Moons, Great Sir, their ſilver Creſcents fill'd,</l>
+               <l>Since, mounted on a Billow, I beheld</l>
+               <l>You on the Bridg; but Louder Joyes there were,</l>
+               <l>That barr'd my Welcomes from Your Sacred Ear:</l>
+               <l>Now I above my higheſt bound have rear'd</l>
+               <l>My Head, to ſay what could not, then, be heard.</l>
+               <l>Hail, Mighty <hi>Monarch!</hi> whoſe Imperial Hand</l>
+               <l>Quiets the Ocean, and ſecures the Land;</l>
+               <l>This City, whom I ſerve with Neighb'ring Floods,</l>
+               <l>Exporting Yours, importing Foreign Goods,</l>
+               <l>With anxious Grief, did long Your Abſence mourn;</l>
+               <l>Now with full Joy ſhe Welcomes Your Return;</l>
+               <l>Your bleſt Return! by which ſhe is Reſtor'd</l>
+               <l>To all the Wealth Remoteſt Lands afford.</l>
+               <l>At your Approach, I haſten'd to the <hi>Downs,</hi>
+               </l>
+               <l>To ſee your Moving Forts, Your Floating Towns,</l>
+               <l>Your <hi>Sovereigns,</hi> Big with Thunder, Plow the Main,</l>
+               <l>And ſwimming Armies in their Womb contain.</l>
+               <l>You are our <hi>Neptune,</hi> every Port and Bay</l>
+               <l>Your Chambers, the whole Sea is Your High-way.</l>
+               <l>Though ſev'ral Nations Boaſt their Strength on Land,</l>
+               <l>Yet You Alone the wat'ry World command.</l>
+               <l>Pardon, great Sir, fair <hi>Cynthia</hi> checks my ſtay;</l>
+               <l>But to Your Royal Palace, twice a day,</l>
+               <l>I will Repair; there my proud Waves ſhall wait,</l>
+               <l>To bear our <hi>Caeſar,</hi> and His conqu'ring Fate.</l>
+            </q>
+            <p>The River <hi>Thames</hi> having ended his Speech, the three Seamen, who entertain'd the Nobility with the former Song, addreſs the following to His Majeſty.</p>
+            <q>
+               <pb n="18" facs="tcp:119190:13"/>
+               <lg>
+                  <head>I.</head>
+                  <l>King CHARLS, King CHARLS, great <hi>Neptune</hi> of the Main!</l>
+                  <l>Thy Royal Navy rig,</l>
+                  <l>And Wee'll not care a fig</l>
+                  <l>For <hi>France,</hi> for <hi>France,</hi> the
+<hi>Netherlands,</hi> nor <hi>Spain;</hi>
+                  </l>
+                  <l>The <hi>Turk,</hi> who looks ſo big,</l>
+                  <l>We'll whip him like a Gig</l>
+                  <l>About the <hi>Mediterrane</hi>
+                  </l>
+                  <l>His Gallies all ſunk, or ta'ne.</l>
+                  <l>Wee'll ſeize on their Goods, and their Monies,</l>
+                  <l>Thoſe <hi>Algier</hi> Sharks</l>
+                  <l>That Plunder Ships, &amp; Barks,</l>
+                  <l>
+                     <hi>Algier, Sally,</hi> and <hi>Tunis,</hi>
+                  </l>
+                  <l>We'll give them ſuch Toaſts</l>
+                  <l>To the <hi>Barbary</hi>-Coaſts,</l>
+                  <l>Shall drive them to Harbour, like Conies.</l>
+                  <l>Tan tara ran tan tan</l>
+                  <l>Tan tara ran tan tara,</l>
+                  <l>Not all the world we fear-a;</l>
+                  <l>The great Fiſh-pond</l>
+                  <l>Shall be thine-a</l>
+                  <l>Both here, and beyond,</l>
+                  <l>From Strand to Strand,</l>
+                  <l>And underneath the Line-a.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>A Sail, a Sail, I to the Offin ſee,</l>
+                  <l>She ſeems aluſty Ship;</l>
+                  <l>Hoiſe all your Sails a-trip:</l>
+                  <l>We'll weather, weather her, what e're ſhe be:</l>
+                  <l>Your Helm then ſteady keep,</l>
+                  <l>And Thunder up the Deep,</l>
+                  <l>A Man of War, no Merchants She;</l>
+                  <l>We'll ſet her on her Crupper;</l>
+                  <l>Give Fire, Bounce, Bounce,</l>
+                  <l>Pickeering Villains trounce</l>
+                  <pb n="19" facs="tcp:119190:13"/>
+                  <l>Till Blood run in Streams at the Scupper;</l>
+                  <l>Such a Break-faſt them we ſhall</l>
+                  <l>Give with Powder, and Ball,</l>
+                  <l>They ſhall need neither Dinner, nor Supper</l>
+                  <l>Tan tara ran tan tan</l>
+                  <l>Tan tara ran tan tara,</l>
+                  <l>Pickeering Rogues ne're ſpare-a;</l>
+                  <l>With Bullets pink</l>
+                  <l>Their Quarters;</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>ntill they ſtink,</l>
+                  <l>They ſink, they ſink,</l>
+                  <l>Farewell the <hi>Devil's Martyrs.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>They yield, they yield; ſhall we the poor Rogues ſpare?</l>
+                  <l>Their ill-gotten Goods,</l>
+                  <l>Preſerv'd from the Floods,</l>
+                  <l>That <hi>King CHARLES,</hi> and we may ſhare?</l>
+                  <l>With Wine then chear our Bloods,</l>
+                  <l>And, putting off our Hoods,</l>
+                  <l>Drink to His <hi>MAJESTIE</hi> bare,</l>
+                  <l>The King of all Compaſſion:</l>
+                  <l>On our Knees next fall</l>
+                  <l>T' our Royal <hi>Admiral,</hi>
+                  </l>
+                  <l>A Health for his Preſervation,</l>
+                  <l>Dear <hi>JAMES</hi> the <hi>Duke</hi> of <hi>YORK,</hi>
+                  </l>
+                  <l>Till our Heels grow light as Cork,</l>
+                  <l>The ſecond Glory of our Nation.</l>
+                  <l>Tan tara ran tan tan</l>
+                  <l>Tan tara ran tan tara</l>
+                  <l>To the Royal Pair-a,</l>
+                  <l>Let every man</l>
+                  <l>Full of Wine-a</l>
+                  <l>Take off his Can,</l>
+                  <l>Though wan, though wan,</l>
+                  <l>To make his red Noſe ſhine-a.</l>
+               </lg>
+            </q>
+            <p>
+               <pb n="20" facs="tcp:119190:14"/>The Seamen having ended their Song, the ſeveral ſorts of Muſick perform their Duty, whilſt His MA<g ref="char:EOLhyphen"/>JESTY paſſeth on towards <hi>Cheap-ſide.</hi>
+            </p>
+            <p>At the <hi>Stocks,</hi> the Entertainment is a Body of Mi<g ref="char:EOLhyphen"/>litary Muſick, placed on a Balcony conſiſting of ſix Trumpets, and three Drums, the Fountain there be<g ref="char:EOLhyphen"/>ing after the <hi>Thuſcan</hi> Order, venting Wine, and Water.</p>
+            <p>In like manner, on the Top of the great <hi>Conduit,</hi> at the Entrance of <hi>Cheap-ſide,</hi> there is another Foun<g ref="char:EOLhyphen"/>tain, out of which iſſue both Wine, and Water, as in a repreſentation of
+<hi>Temperance;</hi> and on the ſeveral Towers of that Conduit are eight Figures, habited like <hi>Nymphs,</hi> with Eſcutcheons in one Hand, and Pendents, or Banners in the other: And be<g ref="char:EOLhyphen"/>tween each of them, Wind-Muſick; the number, eight.</p>
+            <p>On the Standard alſo in <hi>Cheap-ſide</hi> there is a Band of Wayts placed, conſiſting of ſix Perſons.</p>
+            <p>
+               <pb n="21" facs="tcp:119190:14"/>
+               <seg rend="decorInit">T</seg>HE third Triumphal <hi>Arch</hi> ſtands near <hi>Wood</hi>-ſtreet end, not far from the Place, where the
+<hi>Croſs</hi> ſometimes ſtood. It repre<g ref="char:EOLhyphen"/>ſents an Artificial Building of two Stories, one after the <hi>Corinthian</hi> way of Archite<g ref="char:EOLhyphen"/>cture, the other after the <hi>Compoſite,</hi> repreſent<g ref="char:EOLhyphen"/>ing the <hi>Temple</hi> of
+<hi>Concord;</hi> with this Inſcription on a Shield,</p>
+            <q>AEDEM <lb/>CONCORDIAE <lb/>IN HONOREM OPTIMI PRINCIPIS, <lb/>CUJUS ADVENTU <lb/>BRITANNIA TERRA MARIQ. PACATA, <lb/>ET PRISCIS LEGIBUS REFORMATA EST, <lb/>AMPLIOREM SPLENDIDIOREMQ. <lb/>RESTITUIT <lb/>S. P. Q. L.</q>
+            <p>In the Spandrils of the <hi>Arch</hi> there are two Figures, in Female Habits, leaning: One repreſenting PEACE, the other TRUTH. That of
+<hi>Peace</hi> hath her Shield charged with an <hi>Helmet,</hi> and Bees iſſuing forth, and going into it; the Word,</p>
+            <q>PAX BELLO POTIOR.</q>
+            <p>
+               <pb n="22" facs="tcp:119190:15"/>
+               <hi>Truth</hi> on the other ſide, in a thin Habit, on her Shield TIME, bringing <hi>Truth</hi> out of a Cave; the Word,</p>
+            <q>TANDEM EMERSIT.</q>
+            <p>Over the great Painting upon the <hi>Arch</hi> of the
+<hi>Cupula,</hi> repreſents a large GERYON with three Heads crowned, in his three right-Hands, a <hi>Lance,</hi> a <hi>Sword,</hi> and a <hi>Scepter;</hi> in his three left-Hands the three Eſcutcheons of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> before him the Kings Arms with three Imperial Crowns; beneath, in great Letters,</p>
+            <q>CONCORDIA INSUPERABILIS.</q>
+            <p>On the top of the <hi>Cupula</hi> CONCORD, a Woman in her right-Hand holding her Mantle; in her left-Hand a <hi>Ca<g ref="char:EOLhyphen"/>duceus;</hi> under her Feet, a Serpent ſtrugling, which ſhe ſeems to tread down.</p>
+            <p>On the Weſt-ſide, the third great Figure, a Woman, ſtand<g ref="char:EOLhyphen"/>ing at the Prow of a Ship; in her left Hand, a <hi>Cornucopia;</hi> the Word,</p>
+            <q>FOR TUNAE REDUCI.</q>
+            <p>Above there are eight living Figures with Pennons, and Shields, repreſenting the four <hi>Cardinal</hi> Virtues, each with an Attendant.</p>
+            <p>PRUDENCE, on her Shield <hi>Bellerophon</hi> on a
+<hi>Pegaſus,</hi> run<g ref="char:EOLhyphen"/>ing his Javelin into the Mouth of a <hi>Chymera;</hi> the word,</p>
+            <q>CONSILIO ET VIR TUTE.</q>
+            <p>JUSTICE, on her Shield a Woman holding a Sword in one Hand, a Ballance in the other; the word,</p>
+            <q>QUOD DEXTERA LIBRAT.</q>
+            <p>TEMPERANCE, a Viol in her left Hand, a Bridle in her right; the word,</p>
+            <q>FERRE LUPATA DOCET.</q>
+            <p>
+               <pb n="23" facs="tcp:119190:15"/>FORTITUDE, a Lyon having the Arms of
+<hi>England,</hi> in an Eſcutcheon; the word,</p>
+            <q>CUSTOS FIDISSIMUS.</q>
+            <p>The internal Part of this Triumph, or Temple, is Round, the upper part Dark, only enlightned by Artificial Lights; the lower part divided into ten Parts by Pilaſters with Pe<g ref="char:EOLhyphen"/>deſtals.</p>
+            <p>Within the TEMPLE are twelve living Figures, three placed above the Reſt.</p>
+            <p>The Firſt the <hi>Goddeſs</hi> of the TEMPLE in rich Habit, with a <hi>Caduceus</hi> in her Hand, and a <hi>Serpent</hi> at her Feet. Behind the <hi>Goddeſs,</hi> a Man in a Purple Gown, like a Citizen of
+<hi>London,</hi> preſenting the KING with an <hi>Oaken</hi> Garland, Over the King's head.</p>
+            <q>PATER PATRIAE.</q>
+            <p>Over the Citizen's,</p>
+            <q>S. P. Q. L. <lb/>OB CIVES SERVATOS.</q>
+            <p>The Second, TRUTH, ſtanding next the <hi>Goddeſs</hi> CON<g ref="char:EOLhyphen"/>CORD, in a thin, but rich Habit, her Shield charg'd with a Book held open, with wings faſten'd by a Chain to a Cloud; beneath, a <hi>Fury</hi> plucking at the End of the Chain; the word,</p>
+            <q>VERITAS INVICTA.</q>
+            <p>The Third, LOVE richly dreſs'd, on the other ſide of the
+<hi>Goddeſs;</hi> on her Shield a <hi>Cupid,</hi> Roſes in his Right Hand, in his left a Fiſh.</p>
+            <p>Of the nine Leſſer Figures; the firſt bears, on a Shield, the King of <hi>Bees</hi> flying alone; a Swarm following at ſome di<g ref="char:EOLhyphen"/>ſtance: the Word,</p>
+            <q>REGE INCOLUMI MENS OMNIBUS UNA.</q>
+            <p>
+               <pb n="24" facs="tcp:119190:16"/>The Second, on his Shield, a
+<hi>Teſtudo</hi> advancing againſt a Wall; the Word,</p>
+            <q>CONCORDIAE CEDUNT.</q>
+            <p>The third, a Shield charged with Hearts <hi>Gules;</hi> the Word,</p>
+            <q>HIC MURUS AHENEUS ESTO.</q>
+            <p>The Fourth, like a Spread-Eagle with two Heads, one of an
+<hi>Eagle,</hi> the other of an <hi>Eſtrich;</hi> in the Mouth of the
+<hi>Eſtrich</hi> a Horſe-ſhoe, in the Foot of the <hi>Eagle</hi> a Thunderbolt; the Word,</p>
+            <q>PRAESIDIA MAJESTATIS.</q>
+            <p>The Fifth, a Bundle of <hi>Javelins;</hi> the Word,</p>
+            <q>UNITAS.</q>
+            <p>The Sixth, two Hands joyned athwart the Eſcutcheon, as from the Clouds, holding a <hi>Caduceus</hi> with a Crown; the Word,</p>
+            <q>FID<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ET CONSILIO.</q>
+            <p>The Seventh, Arms laid down, Guns, Pikes, Enſigns, Swords; the Word,</p>
+            <q>CONDUNTUR, NON CONTUNDUNTUR.</q>
+            <p>The Eighth, a <hi>Caduceus,</hi> with a wing'd Hat above, and Wings beneath, two <hi>Cornucopias</hi> coming out at the middle, ſupported by a Garland; the Word,</p>
+            <q>VIRTUTI FORTUNA COMES.</q>
+            <p>The Ninth, a Bright <hi>Star</hi> ſtriking a gleam through the midſt of the Eſcutcheon; the Word,</p>
+            <q>MONSTRANT REGIBUS ASTRA VIAM.</q>
+            <p>With theſe Figures is intermingled a Band of twenty four Violins.</p>
+            <p>
+               <pb n="25" facs="tcp:119190:16"/>The Baſes, and Capitals within this
+<hi>Triumph,</hi> are Braſs, and the Pillars Steel.</p>
+            <p>The Triumph thus adorned, and the ſeveral Muſick play<g ref="char:EOLhyphen"/>ing, all paſs through, till ſuch time as His Majeſty comes to the middle of the Temple, at which time the three principal living Figures, viz. CONCORD, LOVE, and TRUTH, who till then had not been ſeen; are by the drawing of a Cur<g ref="char:EOLhyphen"/>tain diſcovered, and entertain His Majeſty with the follow<g ref="char:EOLhyphen"/>ing Song.</p>
+            <q>
+               <lg>
+                  <head>I.</head>
+                  <l>Comes not here the King of Peace,</l>
+                  <l>VVho the Stars ſo long foretold,</l>
+                  <l>From all VVoes ſhould us releaſe</l>
+                  <l>Converting Iron-times to Gold?</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>Behold, Behold!</l>
+                  <l>Our Prince confirmed by Heav'nly ſigns</l>
+                  <l>Brings heating Balm,</l>
+                  <l>Brings healing Balm, and Anodines,</l>
+                  <l>To cloſe our Wounds, and Pain aſswage.</l>
+                  <l>He comes with conqu'ring Bays, and Palm</l>
+                  <l>VVhere ſweling Billows us'd to rage,</l>
+                  <l>Gſiding on a ſuver Calm;</l>
+                  <l>Proud Intereſts now no more
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngage.</l>
+               </lg>
+               <lg>
+                  <head>Chorus.</head>
+                  <l>Let theſe arched Roofs reſound,</l>
+                  <l>Joyning Inſtruments, and Voice,</l>
+                  <pb n="26" facs="tcp:119190:17"/>
+                  <l>Fright pale Spirits under Ground;</l>
+                  <l>But let Heav'n and Earth rejoyce,</l>
+                  <l>We our Happineſs have found.</l>
+                  <l>He, thus marching to be Crown'd,</l>
+                  <l>Attended with this glorious Train,</l>
+                  <l>From civil Broils</l>
+                  <l>Shall free theſe Iſles,</l>
+                  <l>Whil'ſt He, and His Poſterity ſhall reign.</l>
+               </lg>
+               <lg>
+                  <head>I.</head>
+                  <l>Who follow Trade, or ſtudy Arts,</l>
+                  <l>Improving Pasture, or the Plow,</l>
+                  <l>Or furrow Waves to foreign Parts,</l>
+                  <l>Uſe your whole Endeavours now.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>His Brow, his Brow</l>
+                  <l>Bids you Hearts, as well as Hands,</l>
+                  <l>Together joyn,</l>
+                  <l>Together joyning bleſs theſe Lands;</l>
+                  <l>
+                     <hi>Peace,</hi> and <hi>Concord,</hi> never poor,</l>
+                  <l>Will make with Wealth this City ſhine,</l>
+                  <l>Ships freight with Spice, and Golden Ore,</l>
+                  <l>Your Fields with Houey, Milk, and Wine,</l>
+                  <l>To ſupply our Neighbours Store.</l>
+               </lg>
+            </q>
+            <p>The Firſt Song ended, <hi>Concord</hi> addreſſes her ſelf to His Majeſty, in theſe Words,</p>
+            <q>
+               <l>Welcome, great Sir, to <hi>CONCORD's</hi> Fan',</l>
+               <l>Which Your Return built up again;</l>
+               <l>You have her Fabrick rear'd ſo high,</l>
+               <l>That the proud Turrets kiſs the Skie.</l>
+               <pb n="27" facs="tcp:119190:17"/>
+               <l>Tumult by You, and Civil War</l>
+               <l>In <hi>Janus</hi> Gates impriſon'd are,</l>
+               <l>By You the King of <hi>Truth,</hi> and <hi>Peace;</hi>
+               </l>
+               <l>O, may Diviſions ever ceaſe!</l>
+               <l>Your ſacred Brow the bluſhing Roſe,</l>
+               <l>And Virgin Lilly twin'd incloſe!</l>
+               <l>The <hi>Caledonian</hi> Thistle-Down</l>
+               <l>Combine with theſe t'adorn Your Crown.</l>
+               <l>No Diſcord in th' <hi>Hybernian</hi> Harp!</l>
+               <l>Nought in our Duty flat, or ſharp;</l>
+               <l>But all conſpire, that You, as beſt,</l>
+               <l>May 'bove all other Kings be Bleſt.</l>
+            </q>
+            <p>The Speech ended, His Majeſty, at his going off, is enter<g ref="char:EOLhyphen"/>tained with the following Song:</p>
+            <q>
+               <l>With all our Wiſhes, Sir, go on,</l>
+               <l>Our <hi>Charles</hi> three Nations Glory;</l>
+               <l>That Worlds of Eyes may look upon,</l>
+               <l>Behind, Sir, and before Ye;</l>
+               <l>Go, great Exemplar of our <hi>Britiſh</hi> Story;</l>
+               <l>Paternal Crowns aſsume,</l>
+               <l>That then Your Royal Name</l>
+               <l>May, regiſtred by Fame,</l>
+               <l>Swell like a ſweet Perfume,</l>
+               <l>Not writ in Marble, Braſs, nor Gold,</l>
+               <l>Nor ſparkling Gems,</l>
+               <l>Such as ſhine in Diadems,</l>
+               <l>Where all Nations may behold</l>
+               <l>With brighter Characters enroll'd,</l>
+               <l>On th' Azure Vellam of configur'd Stars,</l>
+               <l>Who fixt with gentle Smiles</l>
+               <l>Two fluctuating Iſles,</l>
+               <l>And built well-grounded Peace on Civil Wars.</l>
+            </q>
+            <p>
+               <pb n="28" facs="tcp:119190:18"/>On the little Conduit, at the lower End of
+<hi>Cheap-ſide</hi> are pla<g ref="char:EOLhyphen"/>ced four Figures, or <hi>Nymphs,</hi> each of them having an Eſcut<g ref="char:EOLhyphen"/>cheon in the one Hand, and a Pendent in the other.</p>
+            <p>In a Balcony, erected at the Entrance of
+<hi>Pater-noſter</hi>-Row, are placed His Majeſtie's Drums and Fife; the number of Per<g ref="char:EOLhyphen"/>ſons, eight.</p>
+            <p>Between that and <hi>Ludgate</hi> there are two other Balconies e<g ref="char:EOLhyphen"/>rected: In one, is placed a Band of ſix Waits; In the other, ſix Drums.</p>
+            <p>On the Top of <hi>Ludgate</hi> ſix Trumpets.</p>
+            <p>At <hi>Fleet</hi>-Bridge a Band of ſix Waits.</p>
+            <p>On <hi>Fleet</hi>-Conduit are ſix Figures, or <hi>Nymphs,</hi> clad in White, each with an Eſcutcheon in one Hand, and a Pendent in the other; as alſo a Band of ſix Waits. And on the <hi>Lanthorn</hi> of the Conduit is the Figure of <hi>Temperance,</hi> mixing Water and Wine.</p>
+            <p>
+               <pb n="29" facs="tcp:119190:18"/>
+               <seg rend="decorInit">I</seg>N <hi>Fleetſtreet,</hi> near <hi>VVhite Friers,</hi> ſtands the fourth Irſumphal Arch repreſenting the
+<hi>Gar<g ref="char:EOLhyphen"/>den</hi> of PLENTY; it is of two Stories, one of the <hi>Dorick</hi> Order, the other of the <hi>Ionick.</hi> The Capitals have not their juſt Meaſure, but incline to the Modern <hi>Architecture.</hi>
+            </p>
+            <p>Upon the great Shield over the <hi>Arch,</hi> in large Capitals, this Inſcription,</p>
+            <q>UBERITATI <lb/>AUG. <lb/>EXTINCTO BELLI CIVILIS INCENDIO <lb/>CLUSOQ. JANI TEMPLO <lb/>ARAM CELSISS. <lb/>CONSTRUXIT <lb/>S. P. Q. L.</q>
+            <p>Over the <hi>Poſtern,</hi> on the <hi>South</hi>-ſide of the Entrance is BACCHUS, in a Chariot, drawn by <hi>Leopards,</hi> his Mantle a
+<hi>Panther</hi>'s Skin; his Crown, of <hi>Grapes,</hi> a <hi>Thyrſus</hi> with<pb n="30" facs="tcp:119190:19"/>Ivy in his left Hand; a <hi>Cup</hi> in his right: under<g ref="char:EOLhyphen"/>neath,</p>
+            <q>LIBER PATER.</q>
+            <p>The Painting over this repreſents SILENUS on his Aſs,
+<hi>Satyres</hi> dancing round about, in Drunken and Antick Po<g ref="char:EOLhyphen"/>ſtures; the Proſpect, a <hi>Vine-yard.</hi>
+            </p>
+            <p>On the <hi>North</hi>-ſide oppoſite, <hi>Ceres,</hi> drawn in a Chariot by winged <hi>Dragons,</hi> and crowned with Ears of Corn, in her left Hand, Poppy; in her right, a blazing Torch. The Painting over her is a Deſcription of <hi>Harveſt;</hi> with</p>
+            <q>CERES AUG.</q>
+            <p>On the <hi>VVeſt</hi>-ſide of the Arch, over the
+<hi>South</hi>-Poſtern, the <hi>Goddeſs</hi> FLORA, in a various Coloured Habit; in one Hand, Red and White <hi>Roſes;</hi> in the other,
+<hi>Lilies;</hi> on her Head, a Garland of ſeveral other Flowers.</p>
+            <p>The Painting over this, a Garden, with Walks, Statues, Fountains, Flowers, and Figures of Men and Women walk<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Oppoſite to this, on the <hi>North</hi>-ſide, the
+<hi>Goddeſs</hi> POMONA, crown'd with a Garland of ſeveral Fruits; in her right Hand, the Sun; in her left Hand, a Wand; At her Feet, all Sorts of Graffing, and Gardening Tools.</p>
+            <p>The Painting above, an <hi>Orchard.</hi>
+            </p>
+            <p>On the Corners, four living Figures; above, the four Sea<g ref="char:EOLhyphen"/>ſons of the Year.</p>
+            <p>In the <hi>Niches</hi> ſtand four Figures, repreſenting the four Winds.</p>
+            <p>EURUS, a <hi>Black-Moor</hi> with Black wings! his Embleme, the Sun riſing, and a fair plain Country; his Motto,</p>
+            <q>AD AURORAM NABATHAEAQ. REGNA.</q>
+            <p>
+               <pb n="31" facs="tcp:119190:19"/>BOREAS, inſtead of Feet, two Serpents Tails, his Wings covered with Snow; his Emblem, a rocky Mountainous Country, and the
+<hi>Pleiades</hi> riſing over it; his Motto,</p>
+            <q>
+               <l>SCYTHIAM SEPTEMQ. TRIONES</l>
+               <l>HORRIFER INVADIT—</l>
+            </q>
+            <p>AUSTER, in a dark-coloured Habit, with Wings like Clouds; his Emblem a Cloudy Sky and Showres; his Motto,</p>
+            <q>NUBIBUS ASSIDUIS PLUVIAQ. MADESCIT.</q>
+            <p>ZEPHYRUS, like an <hi>Adonis</hi> with Wings; the Emblem, a Flowery Plain; the Word,</p>
+            <q>
+               <l>—TEPENTIBUS AURIS</l>
+               <l>DEMULCET—</l>
+            </q>
+            <p>The great Figure on the top of all repreſents PLENTY, crowned, a Branch of Palm in her right Hand, a <hi>Cornuco<g ref="char:EOLhyphen"/>piae</hi> in her left.</p>
+            <p>The Muſick aloft on both ſides, and on the two Balconies within, are twelve Waits, ſix Trumpets, and three Drums.</p>
+            <p>At a convenient diſtance before this ſtructure, are two Stages erected, divided, planted, and adorned like Gardens, each of them eight Yards in length, five in breadth. Upon that on the <hi>North</hi>-ſide ſits a Woman repreſenting PLENTY, crowned with a Garland of diverſe Flowers, clad in a Green Veſtment embroidered with Gold, holding a <hi>Cornucopiae:</hi> Her Attendants, two Virgins.</p>
+            <p>At His Majeſtie's approach to the <hi>Arch,</hi> this Perſon repre<g ref="char:EOLhyphen"/>ſenting PLENTY riſeth up, and maketh addreſs to Him in theſe Words;</p>
+            <q>
+               <l>Great Sir, the Star, which, at Your Happy Birth,</l>
+               <l>Joy'd with his Beams, at Noon, the wondring Earth</l>
+               <l>Did with auſpictous luſtre, then preſage</l>
+               <l>The glitt'ring Plenty of this golden Age;</l>
+               <l>The Clouds blownore, which long our joys or'ecaſt,</l>
+               <l>And the ſad Winter of Your abſence paſt;</l>
+               <pb n="32" facs="tcp:119190:20"/>
+               <l>See! the three ſmiling Seaſons of the Year</l>
+               <l>Agree at once to bid You VVelcom here;</l>
+               <l>Her Homage Dutious <hi>Flora</hi> comes to pay;</l>
+               <l>VVith Her Enamel'd Treaſure strows Your VVay:</l>
+               <l>
+                  <hi>Ceres,</hi> and <hi>Pales,</hi> with a bounteous Hand,</l>
+               <l>Diffuſe their Plenty over all Your Land;</l>
+               <l>And <hi>Bacchus</hi> is ſo Laviſh of his Store,</l>
+               <l>That VVine flows now where Water ran before,</l>
+               <l>Thus Seaſons, Men, and Gods their Joy expreſs;</l>
+               <l>To ſee Your Triumph, and our Happineſs.</l>
+            </q>
+            <p>His Majeſty, having paſſed the four Triumphal Arches is, at
+<hi>Temple Bar,</hi> entertained with the View of a delightful Bo<g ref="char:EOLhyphen"/>ſcage, full of ſeveral Beaſts, both Tame, and Savage, as alſo ſeveral living Figures, and Muſick of eight Waits. But this being the Limit of the Citie's Liberty, muſt be ſo likewiſe of our Deſcription.</p>
+         </div>
+      </body>
+      <back>
+         <div type="acknowledgements">
+            <p>THE Parts of which this <hi>Entertainment</hi> conſiſts, were car<g ref="char:EOLhyphen"/>ried on by ſeveral Perſons, who performed all to Admiration, and, conſidering the Shortneſs of the Warning, much beyond what could have been imagined.</p>
+            <p>The <hi>Architectural Part</hi> by Mr. <hi>Peter Mills,</hi> Surveyor of the City, and another Perſon, who deſires to have his Name conceal'd.</p>
+            <p>The <hi>Carpentry,</hi> by Mr. <hi>John Scot,</hi> Mr. <hi>William Pope,</hi> Mr. <hi>Thomas Wratton,</hi> and Mr. <hi>Roger Jerman.</hi>
+            </p>
+            <p>The <hi>Painting,</hi> by Mr. <hi>William Lightfoot,</hi> and Mr.
+<hi>Andrew Dacres.</hi>
+            </p>
+            <p>The <hi>Joyner</hi>'s <hi>Work,</hi> by Mr. <hi>Thomas Whiting.</hi>
+            </p>
+            <p>The <hi>Carver</hi>'s <hi>Work,</hi> by Mr. <hi>Richard Cleer,</hi>
+            </p>
+            <p>The Principal Parts of the Muſick, by His <hi>Majeſtie's</hi> Servants; all Compoſed by <hi>Matthew Lock</hi> 
+               <abbr>Eſq</abbr> Compoſer in Ordinary to his <hi>Majeſty.</hi>
+            </p>
+         </div>
+         <div type="order_of_procession">
+            <pb n="33" facs="tcp:119190:20"/>
+            <argument>
+               <p>By reaſon of ſome fictitious Printed Papers of the Manner of His Majeſtie's intended Proceeding through <hi>London,</hi> on
+<hi>Monday</hi> the two and twentieth of this inſtant <hi>April,</hi> lately ſpread abroad; it is thought fit, for better Satisfaction, to Publiſh this Copy of that, which is by Authority appointed.</p>
+            </argument>
+            <head>THE CAVALCADE, OR His MAJESTIE'S March through the City of
+<hi>London</hi> towards His CORONATION, <hi>Monday, April</hi> 22<hi rend="sup">th.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="5">THE Duke of <hi>York</hi>'s Horſe-guard.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Meſſengers of the Chamber.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Eſquires to the Knights of the
+<hi>Bath.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Knight <hi>Harbinger,</hi> Sergeant
+<hi>Porter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Sewers of the Chamber.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Quarter-Waiters.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The Six Clerks of the <hi>Chancery.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Clerks
+<list>
+                           <item>Of the Signet,</item>
+                           <item>Clerks Privy-Seal,</item>
+                           <item>Clerks Council,</item>
+                           <item>Clerks Parliament,</item>
+                           <item>Clerks Crown.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">
+                        <pb n="34" facs="tcp:119190:21"/>Chaplains having Dignities, ten in Number.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The King's <hi>Advocare,</hi> and Remembrancer.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The King's Learned Council at Law.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Maſters of the <hi>Chancery.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">King's puiſne Serjeants.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">King's Attorney, and Solicitor.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">King's Eldeſt Serjeants.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Secretaries of the <hi>French,</hi> and
+<hi>Latine</hi> Tongues.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Gentlemen Uſhers Dayly Waiters.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Sewers, Carvers, and Cup-bearers in Ordinary.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Eſquires of the Body.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Maſters of ſtanding Offices, being no Councell ours, <hi>viz.</hi> Of the Teats, Revels, Ceremonies, Armory, Wardrobe, Ordnance.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Maſters of the Requeſts.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Chamberlains of the <hi>Exchequer.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Barons of the <hi>Exchequer,</hi> and Judges of the Law, according to their Dignities.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Lord Chief Baron, and Lord Chief Juſtice of the <hi>Com<g ref="char:EOLhyphen"/>mon Pleas.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Mr. of the Rolls,</cell>
+                     <cell> </cell>
+                     <cell cols="2">Chief Juſtice.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="3">
+                        <hi>Trumpets.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Gentlemen of the Privy-Chamber.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Knights of the <hi>Bath.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Knight Marſhal, Treaſurer of the the Chamber, Maſter of the Jewel-houſe.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Barons younger Sons.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Viſcounts younger Sons.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Knights of the Privy Council.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Barons Eldeſt Sons.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Earls youngeſt Sons.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Viſcounts Eldeſt Sons.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="3">The Trumpets, and Serjeant Trumpets.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="3">Two Purſivants at Arms.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Barons.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Marqueſſes younger Sons.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Earls Eldeſt Sons.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="35" facs="tcp:119190:21"/>
+                     </cell>
+                     <cell cols="3">Two Purſivants at Arms.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Viſcounts.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Dukes younger Sons.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Marqueſſes Eldeſt Sons.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="3">Two Heralds.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Earls.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Earl Marſhal: and Lord Chamberlain of the Houſhold.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Dukes Eldeſt Sons.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="3">Two Heralds.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Marqueſſes.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Dukes.</cell>
+                  </row>
+                  <row>
+                     <cell rows="5">Ser. at Arms.</cell>
+                     <cell>
+                        <hi>Clarencieux</hi>
+                     </cell>
+                     <cell>and</cell>
+                     <cell>
+                        <hi>Norroy.</hi>
+                     </cell>
+                     <cell rows="5">Ser. at Arms.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Lord Treaſurer, Lord Chancellour.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Lord High Steward.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Two Perſons Repreſenting the Dukes of
+<hi>Nor<g ref="char:EOLhyphen"/>mandy</hi> and <hi>Aquitain.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gent. Uſher,</cell>
+                     <cell>
+                        <hi>Garter,</hi>
+                     </cell>
+                     <cell>L. <hi>Mayor.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The Duke of <hi>York</hi> alone.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">The Lord High Con<g ref="char:EOLhyphen"/>ſtable of
+<hi>England.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell cols="2">The Lord great Chamberlain of <hi>England.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The Sword born by the Duke of
+<hi>Richmond.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="3">The King.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Equerries, and Footmen next His Majeſty.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Gentlemen, and Penſioners without them.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The Maſter of the Horſe, leading a ſpare Horſe.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The Vice Chamberlain to the King.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Captain of the Penfioners.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Captain of the Guard.</cell>
+                     <cell> </cell>
+                     <cell cols="2">The King's Horſe-guard.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">The Guard.</cell>
+                     <cell> </cell>
+                     <cell cols="2">The General's Horſe-guard.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="notice">
+            <p>This is to advertiſe, that the Formality for making the Knights of the <hi>Bath,</hi> and the Catalogue of them, which are lately Printed, are very Erroneous, and Falſe: They will come forth very ſhortly Exact, and by Authority.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="list_of_committee_members">
+            <pb facs="tcp:119190:22"/>
+            <pb n="37" facs="tcp:119190:22"/>
+            <p>BY the <hi>Common-Council</hi> of <hi>London,</hi> theſe Entertain<g ref="char:EOLhyphen"/>ments of his Sacred MAIESTY, were appointed to be managed by a
+<hi>Committee</hi> conſiſting of nine <hi>Aldermen,</hi> and fifteen
+<hi>Commoners,</hi> and others, their Names, theſe;</p>
+            <list>
+               <item>Aldermen,
+<list>
+                     <item>Sir <hi>Tho. Adams</hi> Knight <hi>and</hi> Baronet.</item>
+                     <item>Sir <hi>Tho. Aleyn,</hi> Knight <hi>and</hi> Baronet.</item>
+                     <item>Mr. <hi>Ald. Fowke.</hi>
+                     </item>
+                     <item>Sir <hi>William Thompſon,</hi> Knight.</item>
+                     <item>Sir <hi>Jo. Frederick,</hi> Knight.</item>
+                     <item>Sir <hi>Jo. Robinſon,</hi> Knight <hi>and</hi> Baronet.</item>
+                     <item>Sir <hi>Antho. Bateman,</hi> Knight.</item>
+                     <item>Sir <hi>Jo. Laurence,</hi> Knight.</item>
+                     <item>Sir <hi>Richard Ford,</hi> Knight.</item>
+                  </list>
+               </item>
+               <item>Commoners,
+<list>
+                     <item>Sir <hi>Will. Bateman,</hi> Knight.</item>
+                     <item>Sir <hi>Lau. Bromfield,</hi> Knight.</item>
+                     <item>Sir <hi>Tho. Bludworth,</hi> Knight.</item>
+                     <item>Sir <hi>Jo. Cutler,</hi> Knight <hi>and</hi> Baronet.</item>
+                     <item>Sir <hi>Theoph. Bidulph,</hi> Knight.</item>
+                     <item>Sir <hi>Will. Vincent,</hi> Knight.</item>
+                     <item>Deputy <hi>Aylmer.</hi>
+                     </item>
+                     <item>Deputy <hi>Hickman.</hi>
+                     </item>
+                     <item>Mr. <hi>Saunders.</hi>
+                     </item>
+                     <item>Collonel <hi>Truſsel.</hi>
+                     </item>
+                     <item>Collonel <hi>Clagett.</hi>
+                     </item>
+                     <item>Mr. <hi>Penning.</hi>
+                     </item>
+                     <item>Collonel <hi>Nevil.</hi>
+                     </item>
+                     <item>Mr. <hi>Oſbaldſton.</hi>
+                     </item>
+                     <item>Mr. <hi>Maſcal.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>Theſe Worthy Members of this Honourable <hi>City,</hi> in Or<g ref="char:EOLhyphen"/>der to this <hi>Solemnity,</hi> have raiſed Conſiderable Sums of Mo<g ref="char:EOLhyphen"/>ney,
+<pb n="38" facs="tcp:119190:23"/>which by the ſeveral Companies were freely Contributed, in expreſſion of their Loyalty.</p>
+            <p>They have Ordered, that Signs be taken down, the Streets Railed on both ſides, the Houſes, and Windows a<g ref="char:EOLhyphen"/>dorned with rich Carpers, and Tapiſtry.</p>
+            <p>The <hi>Aldermen</hi> have thought fit to place themſelves in
+<hi>Cheapſide,</hi> on the Front, or <hi>Eaſt</hi> ſide of the
+<hi>Triumphal Arch.</hi> At his Majeſties coming thither, the Recorder of
+<hi>London,</hi> Sir <hi>William Wilde,</hi> ſalutes him with a Congratulatory Oration, which done, He makes. Him an humble Preſent from the
+<hi>CITY,</hi> in Teſtimony of their dutyful Affection.</p>
+            <p>Along the Streets on the <hi>North</hi>-ſide, ſtand the
+<hi>Companies</hi> with their ſeveral <hi>Trophies,</hi> and other
+<hi>Ornaments:</hi> diſpoſed nearer or farther from the <hi>Triumphal Arches,</hi> according to their particular Dignities; oppoſite to whom (on the <hi>South</hi>-ſide) are placed the Trained Bands.</p>
+            <p>In St. <hi>Paul</hi>'s <hi>Church-Yard</hi> upon a
+<hi>Scaffold,</hi> erected for that purpoſe, ſtand the Children of
+<hi>Chriſt</hi>'s Hoſpital in <hi>blew Coats,</hi> to which belong bleven hundred, a numerous Teſti<g ref="char:EOLhyphen"/>mony of the Charity of this Honourable City; as ſoon as His Majeſty is come within View, they begin to ſing a
+<hi>Hymn,</hi> and at His approach, one of them maketh a Speech in Proſe; which ended, and His Majeſty paſſing on, they ſing another
+<hi>Hymn.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
